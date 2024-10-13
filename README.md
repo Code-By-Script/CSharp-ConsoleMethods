@@ -1,9 +1,12 @@
 # 🌟 Welcome to the CSharp Console Methods Repository! 🌟
 
 
+
 ### 📖 Need Help Setting Up the Project? 
 
-This guide is perfect for **both Visual Studio** and **Visual Studio Code**! Check it out here: [How to Use My Projects](https://github.com/Code-By-Script/Guide-to-Using-the-Project). 🔗
+🎥 **Video Guide Coming Soon!** Stay tuned for a visual walkthrough that will guide you step-by-step through the setup process! 📹✨
+
+🛠️ This guide is perfect for **both Visual Studio** and **Visual Studio Code**! Check it out here: [How to Use My Projects](https://github.com/Code-By-Script/Guide-to-Using-the-Project). 🔗
 
 ## 📚 Overview
 This repository contains a simple C# console application demonstrating basic console methods. You'll learn how to change console properties, handle user input, and display messages. Let's dive in! 🏊‍♂️
