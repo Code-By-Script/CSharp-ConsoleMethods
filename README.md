@@ -1,5 +1,8 @@
 # 🌟 Welcome to the CSharp Console Methods Repository! 🌟
 
+
+### 📖 Need Help Setting Up the Project in Visual Studio? Check This Guide: [How to Use My Projects](https://github.com/anotherusername/AnotherRepository). 🔗
+
 ## 📚 Overview
 This repository contains a simple C# console application demonstrating basic console methods. You'll learn how to change console properties, handle user input, and display messages. Let's dive in! 🏊‍♂️
 
