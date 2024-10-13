@@ -3,9 +3,9 @@
 ## 📚 Overview
 This repository contains a simple C# console application demonstrating basic console methods. You'll learn how to change console properties, handle user input, and display messages. Let's dive in! 🏊‍♂️
 
-## 💻 Code Explanation
+## 💻 Code Explanation 
 
-### Code Snippet
+ This section provides a detailed breakdown of the code. You can explore the material to understand the concepts before attempting the task at the end. The solution is hidden below, so you can try it without worrying about seeing the answer first.
 
 ## 🚀 Step 1: Main Method - Entry Point
   - 🚀 Purpose: The Main method is the entry point of the program where execution starts. The static modifier allows this method to be called without creating an instance of the class.
@@ -63,8 +63,10 @@ Console.ReadKey(); // ⏳ Wait for a key press before clearing.
 Console.Clear(); // 🧹 Clear the console of all previous outputs.
  ```
 </details> </details> 
+
+## Complete Code (Contains the Solution to the Task):
 <details>
-<summary>Show Complete Code 👀 (Contains the Solution to the Task)</summary>
+<summary>Show Complete Code 👀 </summary>
 
 ```csharp
 using System;
