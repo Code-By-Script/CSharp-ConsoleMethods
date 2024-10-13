@@ -6,44 +6,19 @@ This repository contains a simple C# console application demonstrating basic con
 ## 💻 Code Explanation
 
 ### Code Snippet
+
+## 🚀 Step 4: Main Method - Entry Point
+- 🚀 Purpose: The Main method is the entry point of the program where execution starts. The static modifier allows this method to be called without creating an instance of the class.
 ```csharp
-using System;
+static void Main(string[] args) // Step 4: Main Method - Entry Point
+ ```
+## 🎨 Step 5: Set Console Properties
+- 🎨 Purpose: This block of code customizes the appearance of the console
+   - Empty Line: Provides a clean starting point.
+   - Background Color: Sets a visually appealing dark blue background.
+   - Foreground Color: Sets the text color to black for contrast.
+   - Window Height & Width: Adjusts the console window size for better visibility
 
-namespace MyApp
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            // 1. Set console properties
-            Console.WriteLine(""); // Write an empty line
-            Console.BackgroundColor = ConsoleColor.DarkBlue; // Set background color
-            Console.ForegroundColor = ConsoleColor.Black; // Set text color
-            Console.WindowHeight = 50; // Set the console window height
-            Console.WindowWidth = 50; // Set the console window width
-             
-            // 2. Reset console colors
-            Console.BackgroundColor = ConsoleColor.Black; // Reset background color
-            Console.ForegroundColor = ConsoleColor.White; // Reset text color
+ 
 
-            // 3. Output messages to the console
-            Console.Write("Like the video"); // Output message without a new line
-            Console.WriteLine("Subscribe to Code-By-Script"); // Output message with a new line
-            
-            // 4. Wait for user input
-            Console.ReadKey(); // Wait for a key press
-            Console.ReadLine(); // Wait for a line of text input
 
-            // Task for you
-            // Try to write something to the console 
-            // Change the title of the console
-            // Clear the console terminal
-
-            // 5. Change console title and clear the console
-            Console.WriteLine("Code-By-Script"); // Output a message
-            Console.Title = "Code-By-Script-channel"; // Change the console title
-            Console.ReadKey(); // Wait for a key press
-            Console.Clear(); // Clear the console
-        }
-    }
-}
