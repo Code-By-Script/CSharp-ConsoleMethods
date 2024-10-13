@@ -65,10 +65,10 @@ Your task is to change the console title to **"Code-By-Script-channel"** and **"
 <summary>Click to see the solution! 👀</summary>
 
 ### Solution:
-- **Output Message**: Displays "Code-By-Script" to indicate branding.
-- **Change Title**: Sets the console window title to the channel's name for identification.
-- **Wait for Input**: Pauses execution, allowing the user to read the message.
-- **Clear Console**: Removes all previous text to give a fresh view for future operations.
+- **💬 Output Message**: Displays "Code-By-Script" to indicate branding.
+- **💬Change Title**: Sets the console window title to the channel's name for identification.
+- **💬Wait for Input**: Pauses execution, allowing the user to read the message.
+- **💬Clear Console**: Removes all previous text to give a fresh view for future operations.
 ```csharp
 Console.WriteLine("Code-By-Script"); // 💬 Output a message to the console.
 Console.Title = "Code-By-Script-channel"; // 🔖 Change the console title to Code-By-Script-channel.
@@ -77,7 +77,7 @@ Console.Clear(); // 🧹 Clear the console of all previous outputs.
  ```
 </details> </details> 
 
-## Complete Code (Contains the Solution to the Task):
+## 🛠️ Complete Code (Contains the Solution to the Task):
 <details>
 <summary>Show Complete Code 👀 </summary>
 
@@ -143,7 +143,7 @@ Stay connected for more updates, tutorials, and tips:
 
 ## 🧑‍🏫 **More Resources & Tutorials**
 
-Check out these amazing resources for more information and advanced coding skills:
+Check out these amazing resources for more information and advanced coding skills: 📚
 
 If you're looking to deepen your understanding, here are some helpful resources you might find useful:
 
