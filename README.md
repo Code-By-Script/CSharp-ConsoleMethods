@@ -5,7 +5,7 @@ This repository contains a simple C# console application demonstrating basic con
 
 ## 💻 Code Explanation 
 
- This section provides a detailed breakdown of the code. You can explore the material to understand the concepts before attempting the task at the end. The solution is hidden below, so you can try it without worrying about seeing the answer first.
+This section provides a detailed breakdown of the code. 🛠️ You can explore the material to understand the concepts before attempting the task at the end. 🤓 The solution is hidden below, so you can try it without worrying about seeing the answer first. 👀✨
 
 ## 🚀 Step 1: Main Method - Entry Point
   - 🚀 Purpose: The Main method is the entry point of the program where execution starts. The static modifier allows this method to be called without creating an instance of the class.
@@ -13,11 +13,11 @@ This repository contains a simple C# console application demonstrating basic con
 static void Main(string[] args) // Step 4: Main Method - Entry Point
  ```
 ## 🎨 Step 2: Set Console Properties
-  - 🎨 Purpose: This block of code customizes the appearance of the console
-   - Empty Line: Provides a clean starting point.
-   - Background Color: Sets a visually appealing dark blue background.
-   - Foreground Color: Sets the text color to black for contrast.
-   - Window Height & Width: Adjusts the console window size for better visibility
+  - 🎨 Purpose: This block of code customizes the appearance of the console 
+   - 🧹 Empty Line: Provides a clean starting point. 
+   - 🌌 Background Color: Sets a visually appealing dark blue background. 
+   - ⚫ Foreground Color: Sets the text color to black for contrast. 
+   - 📏 Window Height & Width: Adjusts the console window size for better visibility
 ```csharp
  Console.WriteLine(""); // 📝 Write an empty line to start clean.
 Console.BackgroundColor = ConsoleColor.DarkBlue; // 🎨 Set background color to Dark Blue.
@@ -43,10 +43,15 @@ Console.WriteLine(" Subscribe to Code-By-Script"); // 💬 Continue with a new m
 Console.ReadKey(); // ⏳ Wait for a key press from the user.
 Console.ReadLine(); // ⏳ Wait for a line of text input from the user.
  ```
+## ⚠️ Important Note
+**Remember** to always test your code after making changes! ✅
+
 ## Step 9: Task - Change Console Title and Clear Console 🔧
 
-**Task Description**:  
-Your task is to change the console title to "Code-By-Script-channel" and clear the console after displaying a message. This helps in branding and provides a fresh view for further outputs.
+### 🔧 Task Description
+Your task is to change the console title to **"Code-By-Script-channel"** and **"clear the console after displaying a message"**. 📝 This helps in branding and provides a fresh view for further outputs. 🌟
+
+
 
 <details>
 <summary>Click to see the solution! 👀</summary>
