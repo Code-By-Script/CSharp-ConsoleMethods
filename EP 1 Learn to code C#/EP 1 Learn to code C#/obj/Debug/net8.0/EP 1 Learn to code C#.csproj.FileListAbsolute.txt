@@ -1,0 +1,14 @@
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\bin\Debug\net8.0\EP 1 Learn to code C#.exe
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\bin\Debug\net8.0\EP 1 Learn to code C#.deps.json
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\bin\Debug\net8.0\EP 1 Learn to code C#.runtimeconfig.json
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\bin\Debug\net8.0\EP 1 Learn to code C#.dll
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\bin\Debug\net8.0\EP 1 Learn to code C#.pdb
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\obj\Debug\net8.0\EP 1 Learn to code C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\obj\Debug\net8.0\EP 1 Learn to code C#.AssemblyInfoInputs.cache
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\obj\Debug\net8.0\EP 1 Learn to code C#.AssemblyInfo.cs
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\obj\Debug\net8.0\EP 1 Learn to code C#.csproj.CoreCompileInputs.cache
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\obj\Debug\net8.0\EP 1 Learn to code C#.dll
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\obj\Debug\net8.0\refint\EP 1 Learn to code C#.dll
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\obj\Debug\net8.0\EP 1 Learn to code C#.pdb
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\obj\Debug\net8.0\EP 1 Learn to code C#.genruntimeconfig.cache
+C:\Users\mgame\source\repos\EP 1 Learn to code C#\EP 1 Learn to code C#\obj\Debug\net8.0\ref\EP 1 Learn to code C#.dll
