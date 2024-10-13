@@ -133,9 +133,9 @@ Stay connected for more updates, tutorials, and tips:
  [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) | 
 ---
 
-## 📝 **Thank You for Reading!**
+## 🙏 **Thank you for checking this out!**
 
-🙏 **Thank you for reading my Visual Studio installation guide!** I hope this guide made your installation experience smooth and fun. With the .NET Desktop Development workload installed, you're now fully prepared to follow along with all my tutorials and projects. Don't forget to share your feedback, and stay tuned for more cool content!
+ You’re now equipped to utilize Console.WriteLine and other essential console methods in your terminal projects. Dive into coding, and feel free to provide feedback. Stay tuned for more useful content!
 
 **Happy Coding!** ✨💻🚀
 
